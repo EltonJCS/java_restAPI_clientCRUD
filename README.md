@@ -18,6 +18,8 @@ Para criar, acessar, atualizar e excluir objetos da classe cliente, os seguintes
 | PUT | /clients/\<id\> | Atualiza informações de um cliente específico |
 | DELETE | /clients/\<id\> | Deleta um cliente específico |
 
+O Spark iniciará um servidor Jetty incorporado que escuta na porta 4567. As rotas podem ser testadas na seguinte URL: **http://localhost:4567/clients**.
+
 ---
 
 ### API REST

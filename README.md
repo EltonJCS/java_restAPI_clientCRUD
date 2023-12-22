@@ -36,4 +36,8 @@ Spark é um microframework para aplicações web de software de código livre e 
 ## Referências
 https://www.ibm.com/cloud/learn/rest-apis  
 https://www.codecademy.com/article/what-is-crud  
-https://dzone.com/articles/building-simple-restful-api  
+https://dzone.com/articles/building-simple-restful-api
+
+<hr>
+<p align="center">Feito com ☕ por <a href="https://github.com/eltonjcs">EltonJCS</a></p>
+<div align="center"><a href="https://github.com/eltonjcs"><img src="https://raw.githubusercontent.com/EltonJCS/assets/main/SVGs/Logos/EJCS/EJ_Light%202.svg" alt="EltonJCS" width="100px"></a></div>
